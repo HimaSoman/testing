@@ -5,6 +5,7 @@ $r_sting ="";
 $i=0;
 $j=0;
 $k=0;
+$n =98;
 while(!empty($m_string[$i])){
 
     //$r_sting = $m_string[$i] . $r_sting;
