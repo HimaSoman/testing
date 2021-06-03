@@ -6,5 +6,6 @@ while(!empty($text[$i])){
   $reverse_text = $text[$i].$reverse_text;
   $i++;
 }
+echo "reversed string".$reverse_text
 
 ?>
